@@ -5,6 +5,6 @@
 - Pronouns: he/him
 
 ## About me!
-junior web developer, studying fullstack programming at school, I love React and working with a lot of people mutually
+Junior web developer, studying fullstack programming at school, I love React and working with a lot of people mutually.
 
 ![image](https://github.com/Exaedro/Exaedro/assets/77593869/bc4799a4-f669-4f32-8944-4d9d1e43fd98)
